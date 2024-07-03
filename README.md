@@ -1,5 +1,6 @@
 ## Good day, welcome to my GitHub profile 👋
 
+![snake gif](https://github.com/HugoAGvCz/HugoAGvCz/blob/output/github-contribution-grid-snake.svg)
 <!--
 **HugoAGvCz/HugoAGvCz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##
 
 <div>
   <a href="https://github.com/HugoAGvCz">
@@ -29,9 +31,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/hugo-alejandro-galv%C3%A1n-c%C3%A1zares-726b65261" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-</div>
-
-##
-
-![snake gif](https://github.com/HugoAGvCz/HugoAGvCz/blob/output/github-contribution-grid-snake.svg)
-
+</div> 
