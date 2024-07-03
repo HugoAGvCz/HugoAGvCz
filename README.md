@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HugoAGvCz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contactos: 
+### Contact me:
 <div align="center">  
   <a href="mailto:hacg2016@gmail.com">
     <img <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 </div>
 
 ##
-  ![GitHub Snake Animation](https://github.com/HugoAGvCz/HugoAGvCz/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake Animation](https://github.com/tu-usuario/tu-repositorio/blob/main/dist/snake.svg)
 
