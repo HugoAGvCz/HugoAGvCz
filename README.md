@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ##
 
-![Snake Animation](https://github.com/HugoAGvCz/HugoAGvCz/blob/output/github-contribution-grid-snake.svg  )
+![Snake Animation](https://github.com/HugoAGvCz/HugoAGvCz/blob/gh-pages/github-contribution-grid-snake.svg  )
 
